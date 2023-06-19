@@ -12,6 +12,7 @@ namespace GuruDev
 {
     public partial class GuruDev : Form
     {
+
         public GuruDev()
         {
             InitializeComponent();
@@ -25,7 +26,7 @@ namespace GuruDev
 
         private void bt_canc_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void bt_salv_Click(object sender, EventArgs e)
@@ -52,7 +53,24 @@ namespace GuruDev
 
         private void lb_resut_Click(object sender, EventArgs e)
         {
+            
 
         }
+
+        public void resultado(int dinh, int pix, int cart, int format, int limp, int troPe)
+        {
+            try
+            {
+                int valorFD = 
+            }
+            catch 
+            {
+                
+            }
+
+
+        }
+        
+       
     }
 }
