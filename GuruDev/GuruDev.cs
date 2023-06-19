@@ -26,6 +26,9 @@ namespace GuruDev
 
         private void bt_canc_Click(object sender, EventArgs e)
         {
+            textBox1.Clear();
+            textBox2.Clear();
+           
 
         }
 
@@ -53,7 +56,7 @@ namespace GuruDev
 
         private void lb_resut_Click(object sender, EventArgs e)
         {
-            
+            Console.WriteLine("");
 
         }
 
@@ -61,7 +64,14 @@ namespace GuruDev
         {
             try
             {
-                int valorFD = 
+                format = 100;
+                limp = 50;
+                troPe = 200;
+
+                dinh = 20 %;
+                pix = 10 % ;
+                cart = 0;
+
             }
             catch 
             {
@@ -70,7 +80,15 @@ namespace GuruDev
 
 
         }
-        
-       
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

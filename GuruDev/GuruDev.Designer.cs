@@ -103,6 +103,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(167, 20);
             this.textBox1.TabIndex = 5;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 
@@ -110,13 +111,14 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(167, 20);
             this.textBox2.TabIndex = 6;
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // splitContainer1
             // 
             this.splitContainer1.Location = new System.Drawing.Point(862, 480);
             this.splitContainer1.Name = "splitContainer1";
             this.splitContainer1.Size = new System.Drawing.Size(54, 10);
-            this.splitContainer1.SplitterDistance = 29;
+            this.splitContainer1.SplitterDistance = 25;
             this.splitContainer1.TabIndex = 7;
             // 
             // comboBox1
