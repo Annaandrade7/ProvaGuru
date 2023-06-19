@@ -1,0 +1,12 @@
+C:\Users\2022102020079\source\repos\GuruDev\GuruDev\bin\Debug\GuruDev.exe.config
+C:\Users\2022102020079\source\repos\GuruDev\GuruDev\bin\Debug\GuruDev.exe
+C:\Users\2022102020079\source\repos\GuruDev\GuruDev\bin\Debug\GuruDev.pdb
+C:\Users\2022102020079\source\repos\GuruDev\GuruDev\obj\Debug\GuruDev.csproj.AssemblyReference.cache
+C:\Users\2022102020079\source\repos\GuruDev\GuruDev\obj\Debug\GuruDev.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020079\source\repos\GuruDev\GuruDev\obj\Debug\GuruDev.Menu.resources
+C:\Users\2022102020079\source\repos\GuruDev\GuruDev\obj\Debug\GuruDev.Properties.Resources.resources
+C:\Users\2022102020079\source\repos\GuruDev\GuruDev\obj\Debug\GuruDev.csproj.GenerateResource.cache
+C:\Users\2022102020079\source\repos\GuruDev\GuruDev\obj\Debug\GuruDev.csproj.CoreCompileInputs.cache
+C:\Users\2022102020079\source\repos\GuruDev\GuruDev\obj\Debug\GuruDev.exe
+C:\Users\2022102020079\source\repos\GuruDev\GuruDev\obj\Debug\GuruDev.pdb
+C:\Users\2022102020079\source\repos\GuruDev\GuruDev\obj\Debug\GuruDev.GuruDev.resources
